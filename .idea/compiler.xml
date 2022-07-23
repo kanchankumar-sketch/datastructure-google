@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="datastructure-google" target="1.8" />
+      <module name="datastructure-google" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
